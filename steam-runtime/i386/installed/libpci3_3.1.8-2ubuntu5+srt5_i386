@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./usr/share/doc/libpci3/
+-rw-r--r-- root/root     21577 2011-10-02 04:28 ./usr/share/doc/libpci3/changelog.gz
+-rw-r--r-- root/root      1036 2011-12-19 12:34 ./usr/share/doc/libpci3/copyright
+-rw-r--r-- root/root      8588 2016-09-06 08:24 ./usr/share/doc/libpci3/changelog.Debian.gz
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./lib/
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./lib/i386-linux-gnu/
+-rw-r--r-- root/root     47072 2016-09-06 08:24 ./lib/i386-linux-gnu/libpci.so.3.1.8
+lrwxrwxrwx root/root         0 2016-09-06 08:24 ./lib/i386-linux-gnu/libpci.so.3 -> libpci.so.3.1.8

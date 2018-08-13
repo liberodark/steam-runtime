@@ -1,0 +1,16 @@
+drwxr-xr-x root/root         0 2016-09-06 08:27 ./
+drwxr-xr-x root/root         0 2016-09-06 08:27 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:27 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     35376 2016-09-06 08:27 ./usr/lib/x86_64-linux-gnu/libavfilter.so.2.15.0
+drwxr-xr-x root/root         0 2016-09-06 08:27 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:27 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2016-09-06 08:27 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root       102 2014-07-16 05:51 ./usr/share/lintian/overrides/libavfilter2
+drwxr-xr-x root/root         0 2016-09-06 08:27 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:27 ./usr/share/doc/libavfilter2/
+-rw-r--r-- root/root     18268 2014-06-26 18:39 ./usr/share/doc/libavfilter2/changelog.gz
+-rw-r--r-- root/root      3282 2014-07-16 05:51 ./usr/share/doc/libavfilter2/copyright
+-rw-r--r-- root/root     26245 2016-09-06 08:25 ./usr/share/doc/libavfilter2/changelog.Debian.gz
+-rw-r--r-- root/root      2225 2014-07-16 05:51 ./usr/share/doc/libavfilter2/README.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:27 ./usr/lib/x86_64-linux-gnu/libavfilter.so.2 -> libavfilter.so.2.15.0

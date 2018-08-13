@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root      9652 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/libXinerama.so.1.0.0
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/doc/libxinerama1/
+-rw-r--r-- root/root      7095 2010-10-27 23:29 ./usr/share/doc/libxinerama1/changelog.gz
+-rw-r--r-- root/root      3670 2016-09-06 08:17 ./usr/share/doc/libxinerama1/copyright
+-rw-r--r-- root/root      2590 2016-09-06 08:17 ./usr/share/doc/libxinerama1/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/libXinerama.so.1 -> libXinerama.so.1.0.0

@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    297452 2016-09-06 15:22 ./usr/lib/i386-linux-gnu/libopenal.so.1.13.0
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/doc/libopenal1/
+-rw-r--r-- root/root      2378 2011-10-19 16:10 ./usr/share/doc/libopenal1/copyright
+-rw-r--r-- root/root      3394 2016-09-06 15:22 ./usr/share/doc/libopenal1/changelog.Debian.gz
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/doc/libopenal1/examples/
+-rw-r--r-- root/root      3486 2011-01-23 23:51 ./usr/share/doc/libopenal1/examples/alsoftrc.sample.gz
+lrwxrwxrwx root/root         0 2016-09-06 15:22 ./usr/lib/i386-linux-gnu/libopenal.so.1 -> libopenal.so.1.13.0

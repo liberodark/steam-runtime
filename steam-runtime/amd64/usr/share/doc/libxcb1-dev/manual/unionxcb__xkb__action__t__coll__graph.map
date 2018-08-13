@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structxcb__xkb__sa__set__group__t.html" title="xcb_xkb_sa_set_group_t" alt="" coords="25,11,204,40"/>
+<area shape="rect" id="node4" href="$structxcb__xkb__sa__device__btn__t.html" title="xcb_xkb_sa_device_btn_t" alt="" coords="24,64,205,93"/>
+<area shape="rect" id="node6" href="$structxcb__xkb__sa__latch__group__t.html" title="xcb_xkb_sa_latch_group_t" alt="" coords="20,117,209,147"/>
+<area shape="rect" id="node8" href="$structxcb__xkb__sa__lock__device__btn__t.html" title="xcb_xkb_sa_lock_device_btn_t" alt="" coords="8,171,221,200"/>
+<area shape="rect" id="node10" href="$structxcb__xkb__sa__set__controls__t.html" title="xcb_xkb_sa_set_controls_t" alt="" coords="19,224,211,253"/>
+<area shape="rect" id="node12" href="$structxcb__xkb__sa__lock__controls__t.html" title="xcb_xkb_sa_lock_controls_t" alt="" coords="16,277,213,307"/>
+<area shape="rect" id="node14" href="$structxcb__xkb__sa__lock__mods__t.html" title="xcb_xkb_sa_lock_mods_t" alt="" coords="24,331,205,360"/>
+<area shape="rect" id="node16" href="$structxcb__xkb__sa__ptr__btn__t.html" title="xcb_xkb_sa_ptr_btn_t" alt="" coords="35,384,195,413"/>
+<area shape="rect" id="node18" href="$structxcb__xkb__sa__no__action__t.html" title="xcb_xkb_sa_no_action_t" alt="" coords="27,437,203,467"/>
+<area shape="rect" id="node20" href="$structxcb__xkb__sa__latch__mods__t.html" title="xcb_xkb_sa_latch_mods_t" alt="" coords="21,491,208,520"/>
+<area shape="rect" id="node22" href="$structxcb__xkb__sa__set__mods__t.html" title="xcb_xkb_sa_set_mods_t" alt="" coords="27,544,203,573"/>
+<area shape="rect" id="node24" href="$structxcb__xkb__sa__device__valuator__t.html" title="xcb_xkb_sa_device_valuator_t" alt="" coords="8,597,221,627"/>
+<area shape="rect" id="node26" href="$structxcb__xkb__sa__action__message__t.html" title="xcb_xkb_sa_action_message_t" alt="" coords="5,651,224,680"/>
+<area shape="rect" id="node28" href="$structxcb__xkb__sa__switch__screen__t.html" title="xcb_xkb_sa_switch_screen_t" alt="" coords="13,704,216,733"/>
+<area shape="rect" id="node30" href="$structxcb__xkb__sa__terminate__t.html" title="xcb_xkb_sa_terminate_t" alt="" coords="27,757,203,787"/>
+<area shape="rect" id="node32" href="$structxcb__xkb__sa__redirect__key__t.html" title="xcb_xkb_sa_redirect_key_t" alt="" coords="19,811,211,840"/>
+<area shape="rect" id="node34" href="$structxcb__xkb__sa__iso__lock__t.html" title="xcb_xkb_sa_iso_lock_t" alt="" coords="33,864,196,893"/>
+<area shape="rect" id="node36" href="$structxcb__xkb__sa__set__ptr__dflt__t.html" title="xcb_xkb_sa_set_ptr_dflt_t" alt="" coords="21,917,208,947"/>
+<area shape="rect" id="node38" href="$structxcb__xkb__sa__move__ptr__t.html" title="xcb_xkb_sa_move_ptr_t" alt="" coords="28,971,201,1000"/>
+<area shape="rect" id="node40" href="$structxcb__xkb__sa__lock__ptr__btn__t.html" title="xcb_xkb_sa_lock_ptr_btn_t" alt="" coords="19,1024,211,1053"/>
+<area shape="rect" id="node42" href="$structxcb__xkb__sa__lock__group__t.html" title="xcb_xkb_sa_lock_group_t" alt="" coords="24,1077,205,1107"/>
+</map>

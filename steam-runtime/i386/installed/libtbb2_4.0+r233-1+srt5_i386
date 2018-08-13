@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:35 ./
+drwxr-xr-x root/root         0 2016-09-06 08:35 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:35 ./usr/lib/
+-rw-r--r-- root/root      9568 2016-09-06 08:35 ./usr/lib/libtbbmalloc_proxy.so.2
+-rw-r--r-- root/root    157964 2016-09-06 08:35 ./usr/lib/libtbb.so.2
+-rw-r--r-- root/root     55844 2016-09-06 08:35 ./usr/lib/libtbbmalloc.so.2
+drwxr-xr-x root/root         0 2016-09-06 08:35 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:35 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:35 ./usr/share/doc/libtbb2/
+-rw-r--r-- root/root      1782 2011-08-24 06:55 ./usr/share/doc/libtbb2/Release_Notes.txt.gz
+-rw-r--r-- root/root      1807 2011-03-31 12:21 ./usr/share/doc/libtbb2/copyright
+-rw-r--r-- root/root      1572 2016-09-06 08:26 ./usr/share/doc/libtbb2/changelog.Debian.gz

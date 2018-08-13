@@ -1,0 +1,14 @@
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    284436 2016-09-06 08:17 ./usr/lib/i386-linux-gnu/libjpeg.so.8.0.2
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root       283 2012-07-10 09:39 ./usr/share/lintian/overrides/libjpeg-turbo8
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/doc/libjpeg-turbo8/
+-rw-r--r-- root/root      5225 2012-07-10 09:39 ./usr/share/doc/libjpeg-turbo8/copyright
+-rw-r--r-- root/root      1428 2016-09-06 08:16 ./usr/share/doc/libjpeg-turbo8/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:17 ./usr/lib/i386-linux-gnu/libjpeg.so.8 -> libjpeg.so.8.0.2

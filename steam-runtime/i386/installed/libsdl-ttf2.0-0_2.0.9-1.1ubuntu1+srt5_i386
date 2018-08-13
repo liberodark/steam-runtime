@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     21908 2016-09-06 08:28 ./usr/lib/i386-linux-gnu/libSDL_ttf-2.0.so.0.6.3
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/share/doc/libsdl-ttf2.0-0/
+-rw-r--r-- root/root       928 2007-07-01 19:02 ./usr/share/doc/libsdl-ttf2.0-0/README
+-rw-r--r-- root/root      2202 2007-07-14 23:17 ./usr/share/doc/libsdl-ttf2.0-0/changelog.gz
+-rw-r--r-- root/root       470 2016-09-06 08:27 ./usr/share/doc/libsdl-ttf2.0-0/copyright
+-rw-r--r-- root/root      1579 2016-09-06 08:27 ./usr/share/doc/libsdl-ttf2.0-0/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:28 ./usr/lib/i386-linux-gnu/libSDL_ttf-2.0.so.0 -> libSDL_ttf-2.0.so.0.6.3

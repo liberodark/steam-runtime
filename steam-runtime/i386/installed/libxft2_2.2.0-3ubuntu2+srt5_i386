@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     84064 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/libXft.so.2.2.0
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/doc/libxft2/
+-rw-r--r-- root/root      8442 2010-10-29 16:22 ./usr/share/doc/libxft2/changelog.gz
+-rw-r--r-- root/root      1438 2016-09-06 08:18 ./usr/share/doc/libxft2/copyright
+-rw-r--r-- root/root      9204 2016-09-06 08:18 ./usr/share/doc/libxft2/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/libXft.so.2 -> libXft.so.2.2.0

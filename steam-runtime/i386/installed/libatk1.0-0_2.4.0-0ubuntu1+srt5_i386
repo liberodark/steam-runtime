@@ -1,0 +1,15 @@
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    129060 2016-09-06 15:14 ./usr/lib/i386-linux-gnu/libatk-1.0.so.0.20409.1
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/share/doc/libatk1.0-0/
+-rw-r--r-- root/root      1639 2012-03-26 11:50 ./usr/share/doc/libatk1.0-0/README
+-rw-r--r-- root/root      7986 2012-03-26 11:50 ./usr/share/doc/libatk1.0-0/NEWS.gz
+-rw-r--r-- root/root     28608 2012-03-26 11:50 ./usr/share/doc/libatk1.0-0/changelog.gz
+-rw-r--r-- root/root      1158 2012-03-27 17:51 ./usr/share/doc/libatk1.0-0/copyright
+-rw-r--r-- root/root       140 2012-03-26 11:50 ./usr/share/doc/libatk1.0-0/AUTHORS
+-rw-r--r-- root/root      5717 2016-09-06 15:14 ./usr/share/doc/libatk1.0-0/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 15:14 ./usr/lib/i386-linux-gnu/libatk-1.0.so.0 -> libatk-1.0.so.0.20409.1

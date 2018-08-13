@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     92588 2016-09-06 08:13 ./usr/lib/i386-linux-gnu/libICE.so.6.3.0
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/share/doc/libice6/
+-rw-r--r-- root/root      8809 2016-09-06 08:13 ./usr/share/doc/libice6/changelog.gz
+-rw-r--r-- root/root      1256 2016-09-06 08:13 ./usr/share/doc/libice6/copyright
+-rw-r--r-- root/root      2571 2016-09-06 08:13 ./usr/share/doc/libice6/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:13 ./usr/lib/i386-linux-gnu/libICE.so.6 -> libICE.so.6.3.0

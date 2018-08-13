@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    508288 2016-09-06 15:21 ./usr/lib/x86_64-linux-gnu/libCgGL.so
+-rw-r--r-- root/root  14812720 2016-09-06 15:21 ./usr/lib/x86_64-linux-gnu/libCg.so
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/doc/libcg/
+-rw-r--r-- root/root      8098 2011-11-28 07:28 ./usr/share/doc/libcg/copyright
+-rw-r--r-- root/root      4157 2016-09-06 15:21 ./usr/share/doc/libcg/changelog.Debian.gz

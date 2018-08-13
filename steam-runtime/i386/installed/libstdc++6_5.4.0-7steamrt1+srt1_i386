@@ -1,0 +1,23 @@
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/lib/
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root   1045156 2016-08-19 03:50 ./usr/lib/i386-linux-gnu/libstdc++.so.6.0.21
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/share/
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/share/gcc-5/
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/share/gcc-5/python/
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/share/gcc-5/python/libstdcxx/
+-rw-r--r-- root/root         1 2016-08-19 03:35 ./usr/share/gcc-5/python/libstdcxx/__init__.py
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/share/gcc-5/python/libstdcxx/v6/
+-rw-r--r-- root/root     21267 2016-08-19 03:35 ./usr/share/gcc-5/python/libstdcxx/v6/xmethods.py
+-rw-r--r-- root/root      1161 2016-08-19 03:35 ./usr/share/gcc-5/python/libstdcxx/v6/__init__.py
+-rw-r--r-- root/root     54671 2016-08-19 03:35 ./usr/share/gcc-5/python/libstdcxx/v6/printers.py
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/share/gdb/
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/share/gdb/auto-load/
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/share/gdb/auto-load/usr/
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/share/gdb/auto-load/usr/lib/
+drwxr-xr-x root/root         0 2016-08-19 03:50 ./usr/share/gdb/auto-load/usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root      2387 2016-08-19 03:50 ./usr/share/gdb/auto-load/usr/lib/i386-linux-gnu/libstdc++.so.6.0.21-gdb.py
+lrwxrwxrwx root/root         0 2016-08-19 03:34 ./usr/lib/i386-linux-gnu/libstdc++.so.6 -> libstdc++.so.6.0.21
+lrwxrwxrwx root/root         0 2016-08-19 03:50 ./usr/share/doc/libstdc++6 -> gcc-5-base

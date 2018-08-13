@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root   1533324 2016-09-06 08:16 ./usr/lib/i386-linux-gnu/libvorbisenc.so.2.0.8
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/share/doc/libvorbisenc2/
+-rw-r--r-- root/root      2222 2016-09-06 08:16 ./usr/share/doc/libvorbisenc2/copyright
+-rw-r--r-- root/root      4164 2016-09-06 08:16 ./usr/share/doc/libvorbisenc2/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:16 ./usr/lib/i386-linux-gnu/libvorbisenc.so.2 -> libvorbisenc.so.2.0.8

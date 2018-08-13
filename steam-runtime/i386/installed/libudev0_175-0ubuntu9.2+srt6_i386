@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-10-12 09:51 ./
+drwxr-xr-x root/root         0 2016-10-12 09:51 ./usr/
+drwxr-xr-x root/root         0 2016-10-12 09:51 ./usr/share/
+drwxr-xr-x root/root         0 2016-10-12 09:51 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-10-12 09:51 ./usr/share/doc/libudev0/
+-rw-r--r-- root/root     66601 2011-11-07 14:27 ./usr/share/doc/libudev0/changelog.gz
+-rw-r--r-- root/root       822 2011-10-20 21:34 ./usr/share/doc/libudev0/copyright
+-rw-r--r-- root/root     49404 2016-10-12 09:51 ./usr/share/doc/libudev0/changelog.Debian.gz
+drwxr-xr-x root/root         0 2016-10-12 09:51 ./lib/
+drwxr-xr-x root/root         0 2016-10-12 09:51 ./lib/i386-linux-gnu/
+-rw-r--r-- root/root     62732 2016-10-12 09:51 ./lib/i386-linux-gnu/libudev.so.0.13.0
+lrwxrwxrwx root/root         0 2016-10-12 09:51 ./lib/i386-linux-gnu/libudev.so.0 -> libudev.so.0.13.0

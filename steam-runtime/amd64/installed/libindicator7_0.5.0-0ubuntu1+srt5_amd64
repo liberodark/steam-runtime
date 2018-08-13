@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/lib/
+-rw-r--r-- root/root     56512 2016-09-06 15:21 ./usr/lib/libindicator.so.7.0.0
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/doc/libindicator7/
+-rw-r--r-- root/root     26004 2012-04-11 08:42 ./usr/share/doc/libindicator7/changelog.gz
+-rw-r--r-- root/root       587 2016-09-06 15:20 ./usr/share/doc/libindicator7/copyright
+-rw-r--r-- root/root       429 2012-04-11 08:42 ./usr/share/doc/libindicator7/AUTHORS
+-rw-r--r-- root/root      5776 2016-09-06 15:21 ./usr/share/doc/libindicator7/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 15:21 ./usr/lib/libindicator.so.7 -> libindicator.so.7.0.0

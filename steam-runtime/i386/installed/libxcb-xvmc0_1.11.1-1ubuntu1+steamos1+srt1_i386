@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-12-05 12:05 ./
+drwxr-xr-x root/root         0 2016-12-05 12:04 ./usr/
+drwxr-xr-x root/root         0 2016-12-05 12:04 ./usr/lib/
+drwxr-xr-x root/root         0 2016-12-05 12:05 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     13684 2016-12-05 12:05 ./usr/lib/i386-linux-gnu/libxcb-xvmc.so.0.0.0
+drwxr-xr-x root/root         0 2016-12-05 12:04 ./usr/share/
+drwxr-xr-x root/root         0 2016-12-05 12:04 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-12-05 12:04 ./usr/share/doc/libxcb-xvmc0/
+-rw-r--r-- root/root      1780 2016-12-05 12:04 ./usr/share/doc/libxcb-xvmc0/copyright
+-rw-r--r-- root/root      6674 2016-12-05 12:03 ./usr/share/doc/libxcb-xvmc0/changelog.Debian.i386.gz
+lrwxrwxrwx root/root         0 2016-12-05 12:04 ./usr/lib/i386-linux-gnu/libxcb-xvmc.so.0 -> libxcb-xvmc.so.0.0.0

@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-09-06 08:19 ./
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     38524 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/libXcursor.so.1.0.2
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/doc/libxcursor1/
+-rw-r--r-- root/root      2774 2016-09-06 08:18 ./usr/share/doc/libxcursor1/copyright
+-rw-r--r-- root/root      4938 2016-09-06 08:18 ./usr/share/doc/libxcursor1/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/libXcursor.so.1 -> libXcursor.so.1.0.2

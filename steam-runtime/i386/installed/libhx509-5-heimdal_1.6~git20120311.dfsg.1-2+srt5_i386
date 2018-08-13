@@ -1,0 +1,14 @@
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    284152 2016-09-06 08:15 ./usr/lib/i386-linux-gnu/libhx509.so.5.0.0
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root        34 2012-03-28 07:53 ./usr/share/lintian/overrides/libhx509-5-heimdal
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/share/doc/libhx509-5-heimdal/
+-rw-r--r-- root/root      8191 2012-03-28 16:51 ./usr/share/doc/libhx509-5-heimdal/copyright
+-rw-r--r-- root/root     16841 2016-09-06 08:06 ./usr/share/doc/libhx509-5-heimdal/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:15 ./usr/lib/i386-linux-gnu/libhx509.so.5 -> libhx509.so.5.0.0

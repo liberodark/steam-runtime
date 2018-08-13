@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     18816 2016-09-06 15:22 ./usr/lib/x86_64-linux-gnu/libcanberra-gtk.so.0.1.8
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/doc/libcanberra-gtk0/
+-rw-r--r-- root/root      3613 2011-02-24 14:07 ./usr/share/doc/libcanberra-gtk0/README.gz
+-rw-r--r-- root/root       921 2011-10-03 11:08 ./usr/share/doc/libcanberra-gtk0/copyright
+-rw-r--r-- root/root      3528 2016-09-06 15:21 ./usr/share/doc/libcanberra-gtk0/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 15:22 ./usr/lib/x86_64-linux-gnu/libcanberra-gtk.so.0 -> libcanberra-gtk.so.0.1.8

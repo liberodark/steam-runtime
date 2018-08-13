@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$xcbext_8h_source.html" title="xcbext.h" alt="" coords="5,83,80,112"/>
+<area shape="rect" id="node5" href="$bigreq_8h_source.html" title="bigreq.h" alt="" coords="104,83,179,112"/>
+<area shape="rect" id="node9" href="$composite_8h_source.html" title="composite.h" alt="" coords="333,315,435,344"/>
+<area shape="rect" id="node11" href="$xproto_8h_source.html" title="xproto.h" alt="" coords="1181,83,1256,112"/>
+<area shape="rect" id="node15" href="$xfixes_8h_source.html" title="xfixes.h" alt="" coords="407,237,476,267"/>
+<area shape="rect" id="node18" href="$damage_8h_source.html" title="damage.h" alt="" coords="459,315,544,344"/>
+<area shape="rect" id="node20" href="$present_8h_source.html" title="present.h" alt="" coords="764,315,847,344"/>
+<area shape="rect" id="node22" href="$xinput_8h_source.html" title="xinput.h" alt="" coords="209,315,281,344"/>
+<area shape="rect" id="node24" href="$render_8h_source.html" title="render.h" alt="" coords="768,160,843,189"/>
+<area shape="rect" id="node27" href="$randr_8h_source.html" title="randr.h" alt="" coords="772,237,839,267"/>
+<area shape="rect" id="node30" href="$shape_8h_source.html" title="shape.h" alt="" coords="405,160,477,189"/>
+<area shape="rect" id="node34" href="$dri2_8h_source.html" title="dri2.h" alt="" coords="603,160,661,189"/>
+<area shape="rect" id="node36" href="$dri3_8h_source.html" title="dri3.h" alt="" coords="685,160,744,189"/>
+<area shape="rect" id="node38" href="$glx_8h_source.html" title="glx.h" alt="" coords="1256,160,1307,189"/>
+<area shape="rect" id="node42" href="$sync_8h_source.html" title="sync.h" alt="" coords="867,160,928,189"/>
+<area shape="rect" id="node45" href="$res_8h_source.html" title="res.h" alt="" coords="1331,160,1384,189"/>
+<area shape="rect" id="node47" href="$screensaver_8h_source.html" title="screensaver.h" alt="" coords="1408,160,1517,189"/>
+<area shape="rect" id="node49" href="$shm_8h_source.html" title="shm.h" alt="" coords="2032,160,2093,189"/>
+<area shape="rect" id="node51" href="$xv_8h_source.html" title="xv.h" alt="" coords="2069,237,2115,267"/>
+<area shape="rect" id="node53" href="$xvmc_8h_source.html" title="xvmc.h" alt="" coords="2103,315,2169,344"/>
+<area shape="rect" id="node55" href="$xinerama_8h_source.html" title="xinerama.h" alt="" coords="1541,160,1635,189"/>
+<area shape="rect" id="node57" href="$xkb_8h_source.html" title="xkb.h" alt="" coords="1659,160,1715,189"/>
+<area shape="rect" id="node59" href="$xprint_8h_source.html" title="xprint.h" alt="" coords="1739,160,1808,189"/>
+<area shape="rect" id="node61" href="$xselinux_8h_source.html" title="xselinux.h" alt="" coords="1832,160,1917,189"/>
+<area shape="rect" id="node63" href="$xtest_8h_source.html" title="xtest.h" alt="" coords="1941,160,2008,189"/>
+<area shape="rect" id="node70" href="$dpms_8h_source.html" title="dpms.h" alt="" coords="2219,83,2288,112"/>
+<area shape="rect" id="node78" href="$record_8h_source.html" title="record.h" alt="" coords="2312,83,2387,112"/>
+<area shape="rect" id="node83" href="$xc__misc_8h_source.html" title="xc_misc.h" alt="" coords="2411,83,2496,112"/>
+<area shape="rect" id="node85" href="$xevie_8h_source.html" title="xevie.h" alt="" coords="2520,83,2587,112"/>
+<area shape="rect" id="node87" href="$xf86dri_8h_source.html" title="xf86dri.h" alt="" coords="2611,83,2688,112"/>
+<area shape="rect" id="node7" href="$xcbint_8h_source.html" title="xcbint.h" alt="" coords="105,160,177,189"/>
+</map>

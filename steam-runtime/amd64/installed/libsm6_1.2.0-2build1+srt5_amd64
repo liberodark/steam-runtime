@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     30888 2016-09-06 15:14 ./usr/lib/x86_64-linux-gnu/libSM.so.6.0.1
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:14 ./usr/share/doc/libsm6/
+-rw-r--r-- root/root     10694 2010-10-27 22:27 ./usr/share/doc/libsm6/changelog.gz
+-rw-r--r-- root/root      1223 2016-09-06 15:13 ./usr/share/doc/libsm6/copyright
+-rw-r--r-- root/root      2514 2016-09-06 15:13 ./usr/share/doc/libsm6/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 15:14 ./usr/lib/x86_64-linux-gnu/libSM.so.6 -> libSM.so.6.0.1

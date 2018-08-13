@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root      5952 2016-09-06 08:14 ./usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/share/doc/libx11-xcb1/
+-rw-r--r-- root/root    113230 2011-11-10 20:57 ./usr/share/doc/libx11-xcb1/changelog.gz
+-rw-r--r-- root/root     47104 2016-09-06 08:05 ./usr/share/doc/libx11-xcb1/copyright
+-rw-r--r-- root/root     11241 2016-09-06 08:05 ./usr/share/doc/libx11-xcb1/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:14 ./usr/lib/x86_64-linux-gnu/libX11-xcb.so.1 -> libX11-xcb.so.1.0.0

@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     30112 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/libXrandr.so.2.2.0
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/doc/libxrandr2/
+-rw-r--r-- root/root     13484 2011-06-29 21:51 ./usr/share/doc/libxrandr2/changelog.gz
+-rw-r--r-- root/root      3704 2016-09-06 08:18 ./usr/share/doc/libxrandr2/copyright
+-rw-r--r-- root/root      3185 2016-09-06 08:18 ./usr/share/doc/libxrandr2/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:18 ./usr/lib/i386-linux-gnu/libXrandr.so.2 -> libXrandr.so.2.2.0

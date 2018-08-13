@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    150144 2016-09-06 08:24 ./usr/lib/x86_64-linux-gnu/libjpeg.so.62.0.0
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:24 ./usr/share/doc/libjpeg62/
+-rw-r--r-- root/root      4172 1998-03-27 15:35 ./usr/share/doc/libjpeg62/changelog.gz
+-rw-r--r-- root/root      8286 1998-03-27 15:34 ./usr/share/doc/libjpeg62/README.gz
+-rw-r--r-- root/root      4881 2010-06-04 07:25 ./usr/share/doc/libjpeg62/copyright
+-rw-r--r-- root/root      5159 2016-09-06 08:23 ./usr/share/doc/libjpeg62/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:24 ./usr/lib/x86_64-linux-gnu/libjpeg.so.62 -> libjpeg.so.62.0.0

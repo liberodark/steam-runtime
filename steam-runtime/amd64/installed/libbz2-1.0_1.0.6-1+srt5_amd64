@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2016-09-06 08:08 ./
+drwxr-xr-x root/root         0 2016-09-06 08:08 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:08 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:08 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:08 ./usr/share/doc/libbz2-1.0/
+-rw-r--r-- root/root      5271 2016-09-06 08:08 ./usr/share/doc/libbz2-1.0/changelog.gz
+-rw-r--r-- root/root      2497 2016-09-06 08:08 ./usr/share/doc/libbz2-1.0/copyright
+-rw-r--r-- root/root      7909 2016-09-06 08:08 ./usr/share/doc/libbz2-1.0/changelog.Debian.gz
+drwxr-xr-x root/root         0 2016-09-06 08:08 ./lib/
+drwxr-xr-x root/root         0 2016-09-06 08:08 ./lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     66784 2016-09-06 08:08 ./lib/x86_64-linux-gnu/libbz2.so.1.0.4
+lrwxrwxrwx root/root         0 2016-09-06 08:08 ./lib/x86_64-linux-gnu/libbz2.so.1.0 -> libbz2.so.1.0.4
+lrwxrwxrwx root/root         0 2016-09-06 08:08 ./lib/x86_64-linux-gnu/libbz2.so.1 -> libbz2.so.1.0.4

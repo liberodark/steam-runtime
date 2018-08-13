@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     63012 2016-09-06 08:17 ./usr/lib/i386-linux-gnu/libXi.so.6.1.0
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/doc/libxi6/
+-rw-r--r-- root/root      4434 2016-09-06 08:17 ./usr/share/doc/libxi6/copyright
+-rw-r--r-- root/root      5149 2016-09-06 08:17 ./usr/share/doc/libxi6/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:17 ./usr/lib/i386-linux-gnu/libXi.so.6 -> libXi.so.6.1.0

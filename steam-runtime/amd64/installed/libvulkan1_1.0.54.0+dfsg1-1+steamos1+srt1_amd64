@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2017-07-24 16:04 ./
+drwxr-xr-x root/root         0 2017-07-24 16:04 ./usr/
+drwxr-xr-x root/root         0 2017-07-24 16:04 ./usr/lib/
+drwxr-xr-x root/root         0 2017-07-24 16:04 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    305688 2017-07-24 16:04 ./usr/lib/x86_64-linux-gnu/libvulkan.so.1.0.54
+drwxr-xr-x root/root         0 2017-07-24 16:04 ./usr/share/
+drwxr-xr-x root/root         0 2017-07-24 16:04 ./usr/share/doc/
+drwxr-xr-x root/root         0 2017-07-24 16:04 ./usr/share/doc/libvulkan1/
+-rw-r--r-- root/root      2278 2017-07-24 02:22 ./usr/share/doc/libvulkan1/copyright
+-rw-r--r-- root/root      1886 2017-07-24 16:00 ./usr/share/doc/libvulkan1/changelog.Debian.amd64.gz
+lrwxrwxrwx root/root         0 2017-07-24 16:04 ./usr/lib/x86_64-linux-gnu/libvulkan.so.1 -> libvulkan.so.1.0.54

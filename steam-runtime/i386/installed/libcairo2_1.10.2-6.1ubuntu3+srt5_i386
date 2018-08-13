@@ -1,0 +1,15 @@
+drwxr-xr-x root/root         0 2016-09-06 15:16 ./
+drwxr-xr-x root/root         0 2016-09-06 15:15 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:15 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:15 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    924196 2016-09-06 15:15 ./usr/lib/i386-linux-gnu/libcairo.so.2.11000.2
+drwxr-xr-x root/root         0 2016-09-06 15:15 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:15 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:16 ./usr/share/doc/libcairo2/
+-rw-r--r-- root/root     81486 2010-12-25 06:21 ./usr/share/doc/libcairo2/NEWS.gz
+-rw-r--r-- root/root    468201 2010-12-25 14:49 ./usr/share/doc/libcairo2/changelog.gz
+-rw-r--r-- root/root      2721 2010-09-09 08:56 ./usr/share/doc/libcairo2/README.gz
+-rw-r--r-- root/root     28461 2010-12-28 05:41 ./usr/share/doc/libcairo2/copyright
+-rw-r--r-- root/root     11530 2016-09-06 15:13 ./usr/share/doc/libcairo2/changelog.Debian.gz
+-rw-r--r-- root/root      3816 2010-12-25 06:21 ./usr/share/doc/libcairo2/AUTHORS.gz
+lrwxrwxrwx root/root         0 2016-09-06 15:15 ./usr/lib/i386-linux-gnu/libcairo.so.2 -> libcairo.so.2.11000.2

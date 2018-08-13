@@ -1,0 +1,16 @@
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     55840 2016-09-06 08:18 ./usr/lib/x86_64-linux-gnu/libtic.so.5.9
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./usr/share/doc/libtinfo5/
+-rw-r--r-- root/root    160818 2011-04-05 11:31 ./usr/share/doc/libtinfo5/changelog.gz
+-rw-r--r-- root/root      6366 2011-10-31 16:13 ./usr/share/doc/libtinfo5/copyright
+-rw-r--r-- root/root     18177 2016-09-06 08:04 ./usr/share/doc/libtinfo5/changelog.Debian.gz
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./lib/
+drwxr-xr-x root/root         0 2016-09-06 08:18 ./lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    159200 2016-09-06 08:18 ./lib/x86_64-linux-gnu/libtinfo.so.5.9
+lrwxrwxrwx root/root         0 2016-09-06 08:18 ./usr/lib/x86_64-linux-gnu/libtic.so.5 -> libtic.so.5.9
+lrwxrwxrwx root/root         0 2016-09-06 08:18 ./lib/x86_64-linux-gnu/libtinfo.so.5 -> libtinfo.so.5.9

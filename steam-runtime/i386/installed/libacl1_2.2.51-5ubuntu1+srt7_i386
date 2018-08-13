@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:09 ./
+drwxr-xr-x root/root         0 2016-09-06 08:09 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:09 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:09 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:09 ./usr/share/doc/libacl1/
+-rw-r--r-- root/root      8296 2010-01-22 15:00 ./usr/share/doc/libacl1/changelog.gz
+-rw-r--r-- root/root       761 2011-12-17 19:01 ./usr/share/doc/libacl1/copyright
+-rw-r--r-- root/root      3821 2016-09-06 08:09 ./usr/share/doc/libacl1/changelog.Debian.gz
+drwxr-xr-x root/root         0 2016-09-06 08:09 ./lib/
+drwxr-xr-x root/root         0 2016-09-06 08:09 ./lib/i386-linux-gnu/
+-rw-r--r-- root/root     30364 2016-09-06 08:09 ./lib/i386-linux-gnu/libacl.so.1.1.0
+lrwxrwxrwx root/root         0 2016-09-06 08:09 ./lib/i386-linux-gnu/libacl.so.1 -> libacl.so.1.1.0

@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    310688 2016-09-06 08:25 ./usr/lib/x86_64-linux-gnu/libmikmod.so.2.0.4
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./usr/share/doc/libmikmod2/
+-rw-r--r-- root/root      7832 2011-10-31 13:01 ./usr/share/doc/libmikmod2/changelog.gz
+-rw-r--r-- root/root      6532 2011-10-31 13:01 ./usr/share/doc/libmikmod2/README.gz
+-rw-r--r-- root/root      1835 2011-12-06 01:41 ./usr/share/doc/libmikmod2/copyright
+-rw-r--r-- root/root      3860 2016-09-06 08:24 ./usr/share/doc/libmikmod2/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:25 ./usr/lib/x86_64-linux-gnu/libmikmod.so.2 -> libmikmod.so.2.0.4

@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     17820 2016-09-06 08:26 ./usr/lib/i386-linux-gnu/libSDL2_net-2.0.so.0.0.1
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/share/doc/libsdl2-net/
+-rw-r--r-- root/root       979 2016-01-07 12:30 ./usr/share/doc/libsdl2-net/README.txt
+-rw-r--r-- root/root      3109 2016-09-06 08:26 ./usr/share/doc/libsdl2-net/changelog.gz
+-rw-r--r-- root/root      1812 2016-01-07 12:30 ./usr/share/doc/libsdl2-net/copyright
+lrwxrwxrwx root/root         0 2016-09-06 08:26 ./usr/lib/i386-linux-gnu/libSDL2_net-2.0.so.0 -> libSDL2_net-2.0.so.0.0.1

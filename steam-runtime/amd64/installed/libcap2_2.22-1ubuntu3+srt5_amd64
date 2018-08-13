@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-09-06 08:22 ./
+drwxr-xr-x root/root         0 2016-09-06 08:22 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:22 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:22 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:22 ./usr/share/doc/libcap2/
+-rw-r--r-- root/root      2495 2011-12-28 16:33 ./usr/share/doc/libcap2/copyright
+-rw-r--r-- root/root      2736 2016-09-06 08:22 ./usr/share/doc/libcap2/changelog.Debian.gz
+drwxr-xr-x root/root         0 2016-09-06 08:22 ./lib/
+drwxr-xr-x root/root         0 2016-09-06 08:22 ./lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     18864 2016-09-06 08:22 ./lib/x86_64-linux-gnu/libcap.so.2.22
+lrwxrwxrwx root/root         0 2016-09-06 08:22 ./lib/x86_64-linux-gnu/libcap.so.2 -> libcap.so.2.22

@@ -1,0 +1,14 @@
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./usr/lib/
+-rw-r--r-- root/root    646184 2016-09-06 08:25 ./usr/lib/libvpx.so.1.0.0
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:25 ./usr/share/doc/libvpx1/
+-rw-r--r-- root/root      3246 2012-01-27 10:36 ./usr/share/doc/libvpx1/README
+-rw-r--r-- root/root      6846 2012-01-27 10:36 ./usr/share/doc/libvpx1/changelog.gz
+-rw-r--r-- root/root     23857 2012-02-01 00:34 ./usr/share/doc/libvpx1/copyright
+-rw-r--r-- root/root      2213 2012-01-27 10:36 ./usr/share/doc/libvpx1/AUTHORS
+-rw-r--r-- root/root      1753 2016-09-06 08:24 ./usr/share/doc/libvpx1/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:25 ./usr/lib/libvpx.so.1 -> libvpx.so.1.0.0
+lrwxrwxrwx root/root         0 2016-09-06 08:25 ./usr/lib/libvpx.so.1.0 -> libvpx.so.1.0.0

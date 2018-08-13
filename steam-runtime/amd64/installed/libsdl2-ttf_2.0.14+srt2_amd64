@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     30896 2016-09-06 08:26 ./usr/lib/x86_64-linux-gnu/libSDL2_ttf-2.0.so.0.14.0
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:26 ./usr/share/doc/libsdl2-ttf/
+-rw-r--r-- root/root      1037 2016-01-29 13:00 ./usr/share/doc/libsdl2-ttf/README.txt
+-rw-r--r-- root/root      1709 2016-09-06 08:25 ./usr/share/doc/libsdl2-ttf/changelog.gz
+-rw-r--r-- root/root      1610 2016-01-29 13:00 ./usr/share/doc/libsdl2-ttf/copyright
+lrwxrwxrwx root/root         0 2016-09-06 08:26 ./usr/lib/x86_64-linux-gnu/libSDL2_ttf-2.0.so.0 -> libSDL2_ttf-2.0.so.0.14.0

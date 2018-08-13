@@ -1,0 +1,15 @@
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/lib/x86_64-linux-gnu/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/lib/x86_64-linux-gnu/gtk-2.0/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/engines/
+-rw-r--r-- root/root    200240 2016-09-06 15:21 ./usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/engines/libmurrine.so
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/gtk-engines/
+-rw-r--r-- root/root     63967 2016-09-06 15:21 ./usr/share/gtk-engines/murrine.xml
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/doc/gtk2-engines-murrine/
+-rw-r--r-- root/root      2697 2012-01-25 12:26 ./usr/share/doc/gtk2-engines-murrine/copyright
+-rw-r--r-- root/root      2824 2016-09-06 15:21 ./usr/share/doc/gtk2-engines-murrine/changelog.Debian.gz

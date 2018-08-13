@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     67472 2016-09-06 08:17 ./usr/lib/i386-linux-gnu/libp11-kit.so.0.0.0
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/doc/libp11-kit0/
+-rw-r--r-- root/root      3266 2011-09-15 10:18 ./usr/share/doc/libp11-kit0/copyright
+-rw-r--r-- root/root      2307 2016-09-06 08:17 ./usr/share/doc/libp11-kit0/changelog.Debian.gz
+drwxr-xr-x root/root         0 2016-09-06 08:17 ./usr/share/doc/libp11-kit0/examples/
+-rw-r--r-- root/root       390 2016-09-06 08:17 ./usr/share/doc/libp11-kit0/examples/pkcs11.conf.example
+lrwxrwxrwx root/root         0 2016-09-06 08:17 ./usr/lib/i386-linux-gnu/libp11-kit.so.0 -> libp11-kit.so.0.0.0

@@ -1,0 +1,18 @@
+drwxr-xr-x root/root         0 2017-05-17 11:24 ./
+drwxr-xr-x root/root         0 2017-05-17 11:24 ./usr/
+drwxr-xr-x root/root         0 2017-05-17 11:24 ./usr/lib/
+drwxr-xr-x root/root         0 2017-05-17 11:24 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    628180 2017-05-17 11:24 ./usr/lib/i386-linux-gnu/libfreetype.so.6.8.0
+drwxr-xr-x root/root         0 2017-05-17 11:24 ./usr/share/
+drwxr-xr-x root/root         0 2017-05-17 11:24 ./usr/share/doc/
+drwxr-xr-x root/root         0 2017-05-17 11:24 ./usr/share/doc/libfreetype6/
+-rw-r--r-- root/root      2872 2009-03-14 06:45 ./usr/share/doc/libfreetype6/FTL.TXT.gz
+-rw-r--r-- root/root      1391 2009-03-14 06:45 ./usr/share/doc/libfreetype6/TODO
+-rw-r--r-- root/root     30895 2011-11-14 11:22 ./usr/share/doc/libfreetype6/changelog.gz
+-rw-r--r-- root/root     45586 2011-11-14 09:58 ./usr/share/doc/libfreetype6/CHANGES.gz
+-rw-r--r-- root/root     14358 2017-05-17 11:23 ./usr/share/doc/libfreetype6/copyright
+-rw-r--r-- root/root     21927 2017-05-17 11:23 ./usr/share/doc/libfreetype6/changelog.Debian.i386.gz
+drwxr-xr-x root/root         0 2017-05-17 11:24 ./usr/share/doc/libfreetype6/pcf/
+-rw-r--r-- root/root      3311 2010-12-31 08:42 ./usr/share/doc/libfreetype6/pcf/README
+-rw-r--r-- root/root     24697 2011-02-24 21:16 ./usr/share/doc/libfreetype6/ft2faq.html
+lrwxrwxrwx root/root         0 2017-05-17 11:24 ./usr/lib/i386-linux-gnu/libfreetype.so.6 -> libfreetype.so.6.8.0

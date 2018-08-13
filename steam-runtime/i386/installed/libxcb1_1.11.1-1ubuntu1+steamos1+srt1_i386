@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-12-05 12:05 ./
+drwxr-xr-x root/root         0 2016-12-05 12:04 ./usr/
+drwxr-xr-x root/root         0 2016-12-05 12:04 ./usr/lib/
+drwxr-xr-x root/root         0 2016-12-05 12:04 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    136764 2016-12-05 12:04 ./usr/lib/i386-linux-gnu/libxcb.so.1.1.0
+drwxr-xr-x root/root         0 2016-12-05 12:04 ./usr/share/
+drwxr-xr-x root/root         0 2016-12-05 12:04 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-12-05 12:04 ./usr/share/doc/libxcb1/
+-rw-r--r-- root/root      1780 2016-12-05 12:04 ./usr/share/doc/libxcb1/copyright
+-rw-r--r-- root/root      6674 2016-12-05 12:03 ./usr/share/doc/libxcb1/changelog.Debian.i386.gz
+lrwxrwxrwx root/root         0 2016-12-05 12:04 ./usr/lib/i386-linux-gnu/libxcb.so.1 -> libxcb.so.1.1.0

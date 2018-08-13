@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     21840 2016-09-06 08:14 ./usr/lib/i386-linux-gnu/libXfixes.so.3.1.0
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:14 ./usr/share/doc/libxfixes3/
+-rw-r--r-- root/root      2319 2016-09-06 08:14 ./usr/share/doc/libxfixes3/copyright
+-rw-r--r-- root/root      3509 2016-09-06 08:14 ./usr/share/doc/libxfixes3/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:14 ./usr/lib/i386-linux-gnu/libXfixes.so.3 -> libXfixes.so.3.1.0

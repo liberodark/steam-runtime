@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    249916 2016-09-06 08:11 ./usr/lib/i386-linux-gnu/libgssapi_krb5.so.2.2
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/share/doc/libgssapi-krb5-2/
+-rw-r--r-- root/root      1200 2012-07-18 14:02 ./usr/share/doc/libgssapi-krb5-2/NEWS.Debian.gz
+-rw-r--r-- root/root     17869 2012-07-18 14:02 ./usr/share/doc/libgssapi-krb5-2/copyright
+-rw-r--r-- root/root     27072 2016-09-06 08:08 ./usr/share/doc/libgssapi-krb5-2/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:11 ./usr/lib/i386-linux-gnu/libgssapi_krb5.so.2 -> libgssapi_krb5.so.2.2

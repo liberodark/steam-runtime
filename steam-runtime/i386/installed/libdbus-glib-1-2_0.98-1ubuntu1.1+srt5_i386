@@ -1,0 +1,17 @@
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    150384 2016-09-06 15:17 ./usr/lib/i386-linux-gnu/libdbus-glib-1.so.2.2.2
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root       127 2011-09-30 08:31 ./usr/share/lintian/overrides/libdbus-glib-1-2
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/share/doc/libdbus-glib-1-2/
+-rw-r--r-- root/root      1182 2011-09-22 04:08 ./usr/share/doc/libdbus-glib-1-2/README
+-rw-r--r-- root/root      3388 2011-09-21 09:35 ./usr/share/doc/libdbus-glib-1-2/NEWS.gz
+-rw-r--r-- root/root     11158 2011-09-30 08:31 ./usr/share/doc/libdbus-glib-1-2/copyright
+-rw-r--r-- root/root       795 2011-09-14 09:23 ./usr/share/doc/libdbus-glib-1-2/AUTHORS
+-rw-r--r-- root/root     12910 2016-09-06 15:17 ./usr/share/doc/libdbus-glib-1-2/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 15:17 ./usr/lib/i386-linux-gnu/libdbus-glib-1.so.2 -> libdbus-glib-1.so.2.2.2

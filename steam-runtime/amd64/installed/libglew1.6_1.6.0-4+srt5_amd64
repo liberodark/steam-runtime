@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    419728 2016-09-06 15:22 ./usr/lib/x86_64-linux-gnu/libGLEW.so.1.6.0
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/doc/libglew1.6/
+-rw-r--r-- root/root      4244 2016-09-06 15:22 ./usr/share/doc/libglew1.6/copyright
+-rw-r--r-- root/root      3427 2016-09-06 15:22 ./usr/share/doc/libglew1.6/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 15:22 ./usr/lib/x86_64-linux-gnu/libGLEW.so.1.6 -> libGLEW.so.1.6.0

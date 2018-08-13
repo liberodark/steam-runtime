@@ -1,0 +1,20 @@
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    312676 2016-09-06 08:28 ./usr/lib/i386-linux-gnu/libswscale.so.2.1.0
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/lib/i386-linux-gnu/i686/
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/lib/i386-linux-gnu/i686/cmov/
+-rw-r--r-- root/root    312676 2016-09-06 08:28 ./usr/lib/i386-linux-gnu/i686/cmov/libswscale.so.2.1.0
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root       101 2014-07-16 05:51 ./usr/share/lintian/overrides/libswscale2
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:28 ./usr/share/doc/libswscale2/
+-rw-r--r-- root/root     18268 2014-06-26 18:39 ./usr/share/doc/libswscale2/changelog.gz
+-rw-r--r-- root/root      3282 2014-07-16 05:51 ./usr/share/doc/libswscale2/copyright
+-rw-r--r-- root/root     26242 2016-09-06 08:26 ./usr/share/doc/libswscale2/changelog.Debian.gz
+-rw-r--r-- root/root      2225 2014-07-16 05:51 ./usr/share/doc/libswscale2/README.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:28 ./usr/lib/i386-linux-gnu/i686/cmov/libswscale.so.2 -> libswscale.so.2.1.0
+lrwxrwxrwx root/root         0 2016-09-06 08:28 ./usr/lib/i386-linux-gnu/libswscale.so.2 -> libswscale.so.2.1.0

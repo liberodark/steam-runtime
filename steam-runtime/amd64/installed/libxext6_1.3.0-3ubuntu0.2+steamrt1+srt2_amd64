@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     73696 2016-09-06 08:11 ./usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:11 ./usr/share/doc/libxext6/
+-rw-r--r-- root/root     15611 2011-05-06 17:24 ./usr/share/doc/libxext6/changelog.gz
+-rw-r--r-- root/root     10421 2016-09-06 08:11 ./usr/share/doc/libxext6/copyright
+-rw-r--r-- root/root      3733 2016-09-06 08:11 ./usr/share/doc/libxext6/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:11 ./usr/lib/x86_64-linux-gnu/libXext.so.6 -> libXext.so.6.4.0

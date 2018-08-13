@@ -1,0 +1,14 @@
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    532268 2016-09-06 08:15 ./usr/lib/i386-linux-gnu/libkrb5.so.26.0.0
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root        34 2012-03-28 07:53 ./usr/share/lintian/overrides/libkrb5-26-heimdal
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:15 ./usr/share/doc/libkrb5-26-heimdal/
+-rw-r--r-- root/root      8191 2012-03-28 16:51 ./usr/share/doc/libkrb5-26-heimdal/copyright
+-rw-r--r-- root/root     16841 2016-09-06 08:06 ./usr/share/doc/libkrb5-26-heimdal/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:15 ./usr/lib/i386-linux-gnu/libkrb5.so.26 -> libkrb5.so.26.0.0

@@ -1,0 +1,15 @@
+drwxr-xr-x root/root         0 2016-09-06 09:07 ./
+drwxr-xr-x root/root         0 2016-09-06 09:07 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 09:07 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 09:07 ./usr/lib/gcc/
+drwxr-xr-x root/root         0 2016-09-06 09:07 ./usr/lib/gcc/x86_64-linux-gnu/
+drwxr-xr-x root/root         0 2016-09-06 09:07 ./usr/lib/gcc/x86_64-linux-gnu/4.6/
+drwxr-xr-x root/root         0 2016-09-06 09:07 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 09:07 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 09:07 ./usr/share/doc/gcc-4.6-base/
+-rw-r--r-- root/root      1716 2016-09-06 08:05 ./usr/share/doc/gcc-4.6-base/TODO.Debian
+-rw-r--r-- root/root     25503 2016-09-06 09:04 ./usr/share/doc/gcc-4.6-base/copyright
+-rw-r--r-- root/root    125535 2016-09-06 08:05 ./usr/share/doc/gcc-4.6-base/changelog.Debian.gz
+-rw-r--r-- root/root      2710 2016-09-06 08:05 ./usr/share/doc/gcc-4.6-base/README.Debian.amd64.gz
+-rw-r--r-- root/root      1509 2016-09-06 08:05 ./usr/share/doc/gcc-4.6-base/README.Debian
+lrwxrwxrwx root/root         0 2016-09-06 09:07 ./usr/lib/gcc/x86_64-linux-gnu/4.6.3 -> 4.6

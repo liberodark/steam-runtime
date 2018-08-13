@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-10-12 09:50 ./
+drwxr-xr-x root/root         0 2016-10-12 09:50 ./usr/
+drwxr-xr-x root/root         0 2016-10-12 09:50 ./usr/share/
+drwxr-xr-x root/root         0 2016-10-12 09:50 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-10-12 09:50 ./usr/share/doc/libcomerr2/
+-rw-r--r-- root/root      1154 2012-03-30 11:25 ./usr/share/doc/libcomerr2/copyright
+-rw-r--r-- root/root     49148 2016-10-12 09:49 ./usr/share/doc/libcomerr2/changelog.Debian.gz
+drwxr-xr-x root/root         0 2016-10-12 09:50 ./lib/
+drwxr-xr-x root/root         0 2016-10-12 09:50 ./lib/i386-linux-gnu/
+-rw-r--r-- root/root     13888 2016-10-12 09:50 ./lib/i386-linux-gnu/libcom_err.so.2.1
+lrwxrwxrwx root/root         0 2016-10-12 09:50 ./lib/i386-linux-gnu/libcom_err.so.2 -> libcom_err.so.2.1

@@ -1,0 +1,14 @@
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     34296 2016-09-06 08:16 ./usr/lib/i386-linux-gnu/libvorbisfile.so.3.3.4
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root        60 2016-09-06 08:16 ./usr/share/lintian/overrides/libvorbisfile3
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:16 ./usr/share/doc/libvorbisfile3/
+-rw-r--r-- root/root      2222 2016-09-06 08:16 ./usr/share/doc/libvorbisfile3/copyright
+-rw-r--r-- root/root      4164 2016-09-06 08:16 ./usr/share/doc/libvorbisfile3/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:16 ./usr/lib/i386-linux-gnu/libvorbisfile.so.3 -> libvorbisfile.so.3.3.4

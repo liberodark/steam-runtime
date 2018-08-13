@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-09-06 09:05 ./
+drwxr-xr-x root/root         0 2016-09-06 09:05 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 09:05 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 09:05 ./usr/lib/gcc/
+drwxr-xr-x root/root         0 2016-09-06 09:05 ./usr/lib/gcc/i686-linux-gnu/
+drwxr-xr-x root/root         0 2016-09-06 09:05 ./usr/lib/gcc/i686-linux-gnu/4.6/
+-rw-r--r-- root/root   2287016 2016-09-06 09:05 ./usr/lib/gcc/i686-linux-gnu/4.6/libstdc++_pic.a
+-rw-r--r-- root/root     46698 2016-09-06 08:18 ./usr/lib/gcc/i686-linux-gnu/4.6/libstdc++_pic.map
+drwxr-xr-x root/root         0 2016-09-06 09:05 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 09:05 ./usr/share/doc/
+lrwxrwxrwx root/root         0 2016-09-06 09:05 ./usr/share/doc/libstdc++6-4.6-pic -> gcc-4.6-base

@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2016-12-05 11:54 ./
+drwxr-xr-x root/root         0 2016-12-05 11:53 ./usr/
+drwxr-xr-x root/root         0 2016-12-05 11:53 ./usr/lib/
+drwxr-xr-x root/root         0 2016-12-05 11:54 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     22576 2016-12-05 11:54 ./usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0
+drwxr-xr-x root/root         0 2016-12-05 11:53 ./usr/share/
+drwxr-xr-x root/root         0 2016-12-05 11:53 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-12-05 11:53 ./usr/share/doc/libxcb-sync1/
+-rw-r--r-- root/root      1780 2016-12-05 11:53 ./usr/share/doc/libxcb-sync1/copyright
+-rw-r--r-- root/root      6677 2016-12-05 11:52 ./usr/share/doc/libxcb-sync1/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-12-05 11:53 ./usr/lib/x86_64-linux-gnu/libxcb-sync.so.1 -> libxcb-sync.so.1.0.0

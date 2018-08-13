@@ -1,0 +1,17 @@
+drwxr-xr-x root/root         0 2016-09-06 08:20 ./
+drwxr-xr-x root/root         0 2016-09-06 08:20 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:20 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:20 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    207696 2016-09-06 08:20 ./usr/lib/i386-linux-gnu/libidn.so.11.6.6
+drwxr-xr-x root/root         0 2016-09-06 08:20 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:20 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:20 ./usr/share/doc/libidn11/
+-rw-r--r-- root/root      1562 2011-11-25 00:40 ./usr/share/doc/libidn11/README
+-rw-r--r-- root/root       898 2011-11-25 00:40 ./usr/share/doc/libidn11/TODO
+-rw-r--r-- root/root     15320 2011-11-25 02:40 ./usr/share/doc/libidn11/NEWS.gz
+-rw-r--r-- root/root     52523 2011-11-25 02:42 ./usr/share/doc/libidn11/changelog.gz
+-rw-r--r-- root/root      2473 2011-11-25 00:40 ./usr/share/doc/libidn11/THANKS
+-rw-r--r-- root/root     13122 2009-02-24 01:27 ./usr/share/doc/libidn11/copyright
+-rw-r--r-- root/root      4070 2016-09-06 08:19 ./usr/share/doc/libidn11/changelog.Debian.gz
+-rw-r--r-- root/root     21486 2011-11-25 00:40 ./usr/share/doc/libidn11/AUTHORS.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:20 ./usr/lib/i386-linux-gnu/libidn.so.11 -> libidn.so.11.6.6

@@ -1,0 +1,15 @@
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    584124 2016-09-06 15:21 ./usr/lib/i386-linux-gnu/liborc-0.4.so.0.16.0
+-rw-r--r-- root/root     26188 2016-09-06 15:21 ./usr/lib/i386-linux-gnu/liborc-test-0.4.so.0.16.0
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:21 ./usr/share/doc/liborc-0.4-0/
+-rw-r--r-- root/root      4041 2011-04-12 09:22 ./usr/share/doc/liborc-0.4-0/README
+-rw-r--r-- root/root       427 2011-04-12 09:22 ./usr/share/doc/liborc-0.4-0/TODO
+-rw-r--r-- root/root      3368 2011-12-04 21:59 ./usr/share/doc/liborc-0.4-0/copyright
+-rw-r--r-- root/root      2101 2016-09-06 15:19 ./usr/share/doc/liborc-0.4-0/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 15:21 ./usr/lib/i386-linux-gnu/liborc-test-0.4.so.0 -> liborc-test-0.4.so.0.16.0
+lrwxrwxrwx root/root         0 2016-09-06 15:21 ./usr/lib/i386-linux-gnu/liborc-0.4.so.0 -> liborc-0.4.so.0.16.0

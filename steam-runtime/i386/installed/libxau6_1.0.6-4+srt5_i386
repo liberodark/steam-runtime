@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root      9600 2016-09-06 08:13 ./usr/lib/i386-linux-gnu/libXau.so.6.0.0
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 08:13 ./usr/share/doc/libxau6/
+-rw-r--r-- root/root      7480 2010-07-19 09:20 ./usr/share/doc/libxau6/changelog.gz
+-rw-r--r-- root/root      1223 2016-09-06 08:12 ./usr/share/doc/libxau6/copyright
+-rw-r--r-- root/root      2406 2016-09-06 08:12 ./usr/share/doc/libxau6/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 08:13 ./usr/lib/i386-linux-gnu/libXau.so.6 -> libXau.so.6.0.0

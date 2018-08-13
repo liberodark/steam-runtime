@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    165976 2016-09-06 15:22 ./usr/lib/x86_64-linux-gnu/libSDL2_mixer-2.0.so.0.0.1
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:22 ./usr/share/doc/libsdl2-mixer/
+-rw-r--r-- root/root      1895 2016-01-07 12:26 ./usr/share/doc/libsdl2-mixer/README.txt
+-rw-r--r-- root/root      6996 2016-09-06 15:22 ./usr/share/doc/libsdl2-mixer/changelog.gz
+-rw-r--r-- root/root      8563 2016-01-07 12:26 ./usr/share/doc/libsdl2-mixer/copyright
+lrwxrwxrwx root/root         0 2016-09-06 15:22 ./usr/lib/x86_64-linux-gnu/libSDL2_mixer-2.0.so.0 -> libSDL2_mixer-2.0.so.0.0.1

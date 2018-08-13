@@ -1,0 +1,9 @@
+drwxr-xr-x root/root         0 2016-08-18 17:43 ./
+drwxr-xr-x root/root         0 2016-08-18 17:42 ./usr/
+drwxr-xr-x root/root         0 2016-08-18 17:42 ./usr/lib/
+drwxr-xr-x root/root         0 2016-08-18 17:43 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    138376 2016-08-18 17:43 ./usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
+drwxr-xr-x root/root         0 2016-08-18 17:42 ./usr/share/
+drwxr-xr-x root/root         0 2016-08-18 17:42 ./usr/share/doc/
+lrwxrwxrwx root/root         0 2016-08-18 17:38 ./usr/lib/x86_64-linux-gnu/libgomp.so.1 -> libgomp.so.1.0.0
+lrwxrwxrwx root/root         0 2016-08-18 17:42 ./usr/share/doc/libgomp1 -> gcc-5-base

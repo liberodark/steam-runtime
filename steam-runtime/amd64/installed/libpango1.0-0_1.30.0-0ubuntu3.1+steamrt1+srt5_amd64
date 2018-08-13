@@ -1,0 +1,42 @@
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/lib/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/module-files.d/
+-rw-r--r-- root/root      3153 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/module-files.d/libpango1.0-0.modules
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/
+-rw-r--r-- root/root     14552 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-arabic-fc.so
+-rw-r--r-- root/root     31480 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-indic-fc.so
+-rw-r--r-- root/root     10872 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-basic-fc.so
+-rw-r--r-- root/root      6176 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-arabic-lang.so
+-rw-r--r-- root/root     10424 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-syriac-fc.so
+-rw-r--r-- root/root     14456 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-khmer-fc.so
+-rw-r--r-- root/root     14392 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-hangul-fc.so
+-rw-r--r-- root/root     85432 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-basic-x.so
+-rw-r--r-- root/root     10760 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-indic-lang.so
+-rw-r--r-- root/root     14456 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-tibetan-fc.so
+-rw-r--r-- root/root     10328 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-thai-lang.so
+-rw-r--r-- root/root     18680 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-thai-fc.so
+-rw-r--r-- root/root     14520 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/pango/1.6.0/modules/pango-hebrew-fc.so
+-rw-r--r-- root/root     31480 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/libpangoxft-1.0.so.0.3000.0
+-rw-r--r-- root/root     52592 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/libpangox-1.0.so.0.3000.0
+-rw-r--r-- root/root    308360 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.3000.0
+-rw-r--r-- root/root    172368 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.3000.0
+-rw-r--r-- root/root     48416 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.3000.0
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/share/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/share/doc/
+drwxr-xr-x root/root         0 2016-09-06 15:17 ./usr/share/doc/libpango1.0-0/
+-rw-r--r-- root/root      3675 2011-08-15 18:11 ./usr/share/doc/libpango1.0-0/README
+-rw-r--r-- root/root     34211 2012-03-26 18:28 ./usr/share/doc/libpango1.0-0/NEWS.gz
+-rw-r--r-- root/root     73296 2012-03-26 18:41 ./usr/share/doc/libpango1.0-0/changelog.gz
+-rw-r--r-- root/root       403 2011-08-15 18:11 ./usr/share/doc/libpango1.0-0/THANKS
+-rw-r--r-- root/root      2674 2012-06-14 15:16 ./usr/share/doc/libpango1.0-0/copyright
+-rw-r--r-- root/root        96 2011-08-15 18:11 ./usr/share/doc/libpango1.0-0/AUTHORS
+-rw-r--r-- root/root     18089 2016-09-06 15:14 ./usr/share/doc/libpango1.0-0/changelog.Debian.gz
+lrwxrwxrwx root/root         0 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/libpangox-1.0.so.0 -> libpangox-1.0.so.0.3000.0
+lrwxrwxrwx root/root         0 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/libpangoxft-1.0.so.0 -> libpangoxft-1.0.so.0.3000.0
+lrwxrwxrwx root/root         0 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 -> libpango-1.0.so.0.3000.0
+lrwxrwxrwx root/root         0 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 -> libpangocairo-1.0.so.0.3000.0
+lrwxrwxrwx root/root         0 2016-09-06 15:17 ./usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 -> libpangoft2-1.0.so.0.3000.0
