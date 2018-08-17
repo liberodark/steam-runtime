@@ -1,3 +1,6 @@
+How to run :
+
+'LD_LIBRARY_PATH=~/.steam/bin32/ ~/.steam/bin32/steam-runtime/run.sh ./Chronicon'
 
 This is a collection of software packages for the Steam Linux Runtime.
 
