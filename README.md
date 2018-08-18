@@ -1,6 +1,15 @@
-# How to run
+# How to Install
 
 in terminal :
+
+```
+wget https://raw.githubusercontent.com/liberodark/steam-runtime/install.sh
+sh install.sh
+```
+
+# How to use
+
+in terminal for run game :
 
 ```
 LD_LIBRARY_PATH=~/.steam/bin32/ ~/.steam/bin32/steam-runtime/run.sh ./Chronicon
