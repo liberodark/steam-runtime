@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2018-05-30 04:54 ./
+drwxr-xr-x root/root         0 2018-05-30 04:54 ./usr/
+drwxr-xr-x root/root         0 2018-05-30 04:54 ./usr/share/
+drwxr-xr-x root/root         0 2018-05-30 04:54 ./usr/share/doc/
+drwxr-xr-x root/root         0 2018-05-30 04:54 ./usr/share/doc/libattr1/
+-rw-r--r-- root/root       789 2017-09-01 11:25 ./usr/share/doc/libattr1/copyright
+-rw-r--r-- root/root      4198 2018-05-30 04:54 ./usr/share/doc/libattr1/changelog.Debian.gz
+-rw-r--r-- root/root      4198 2018-05-30 04:53 ./usr/share/doc/libattr1/changelog.Debian.amd64.gz
+drwxr-xr-x root/root         0 2018-05-30 04:54 ./lib/
+drwxr-xr-x root/root         0 2018-05-30 04:54 ./lib/x86_64-linux-gnu/
+-rw-r--r-- root/root     18704 2018-05-30 04:54 ./lib/x86_64-linux-gnu/libattr.so.1.1.0
+lrwxrwxrwx root/root         0 2018-05-30 04:54 ./lib/x86_64-linux-gnu/libattr.so.1 -> libattr.so.1.1.0

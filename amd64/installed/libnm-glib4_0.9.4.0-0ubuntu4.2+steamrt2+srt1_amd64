@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2018-05-30 05:40 ./
+drwxr-xr-x root/root         0 2018-05-30 05:40 ./usr/
+drwxr-xr-x root/root         0 2018-05-30 05:40 ./usr/lib/
+drwxr-xr-x root/root         0 2018-05-30 05:40 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    230752 2018-05-30 05:40 ./usr/lib/x86_64-linux-gnu/libnm-glib.so.4.3.0
+drwxr-xr-x root/root         0 2018-05-30 05:40 ./usr/share/
+drwxr-xr-x root/root         0 2018-05-30 05:40 ./usr/share/doc/
+drwxr-xr-x root/root         0 2018-05-30 05:40 ./usr/share/doc/libnm-glib4/
+-rw-r--r-- root/root      1970 2017-08-30 04:29 ./usr/share/doc/libnm-glib4/copyright
+-rw-r--r-- root/root     53770 2018-05-30 05:16 ./usr/share/doc/libnm-glib4/changelog.Debian.amd64.gz
+lrwxrwxrwx root/root         0 2018-05-30 05:40 ./usr/lib/x86_64-linux-gnu/libnm-glib.so.4 -> libnm-glib.so.4.3.0
