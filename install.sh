@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# About: Install Chromium Codecs automatically
+# About: Install Steam Runtime automatically
 # Author: liberodark
 # License: GNU GPLv3
 
